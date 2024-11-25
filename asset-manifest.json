@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/thiago-thamires/static/css/main.24f141ac.css",
+    "main.js": "/thiago-thamires/static/js/main.ff8198c8.js",
+    "static/media/audio.mp3": "/thiago-thamires/static/media/audio.c2ce99a57169eed5b355.mp3",
+    "static/media/foto-2.jpg": "/thiago-thamires/static/media/foto-2.f6bbc9dd61bf700af532.jpg",
+    "static/media/foto-3.jpg": "/thiago-thamires/static/media/foto-3.792381ce1dc8e8aac79c.jpg",
+    "static/media/foto-1.jpg": "/thiago-thamires/static/media/foto-1.3f45e52a1bcfea055e80.jpg",
+    "index.html": "/thiago-thamires/index.html",
+    "main.24f141ac.css.map": "/thiago-thamires/static/css/main.24f141ac.css.map",
+    "main.ff8198c8.js.map": "/thiago-thamires/static/js/main.ff8198c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f141ac.css",
+    "static/js/main.ff8198c8.js"
+  ]
+}
