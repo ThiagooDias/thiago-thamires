@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/thiago-thamires/static/css/main.24f141ac.css",
-    "main.js": "/thiago-thamires/static/js/main.ff8198c8.js",
+    "main.css": "/thiago-thamires/static/css/main.c73ee9f0.css",
+    "main.js": "/thiago-thamires/static/js/main.b6cd8c87.js",
     "static/media/audio.mp3": "/thiago-thamires/static/media/audio.c2ce99a57169eed5b355.mp3",
     "static/media/foto-2.jpg": "/thiago-thamires/static/media/foto-2.f6bbc9dd61bf700af532.jpg",
     "static/media/foto-3.jpg": "/thiago-thamires/static/media/foto-3.792381ce1dc8e8aac79c.jpg",
     "static/media/foto-1.jpg": "/thiago-thamires/static/media/foto-1.3f45e52a1bcfea055e80.jpg",
+    "static/media/foto-4.jpg": "/thiago-thamires/static/media/foto-4.0e0dbec46cbcf2d88331.jpg",
+    "static/media/foto-5.jpg": "/thiago-thamires/static/media/foto-5.4dd783760ff4c4c001b9.jpg",
+    "static/media/foto-6.jpg": "/thiago-thamires/static/media/foto-6.6da661c250e519db06ef.jpg",
+    "static/media/foto-11.jpg": "/thiago-thamires/static/media/foto-11.cf0ede205d249b9902a7.jpg",
+    "static/media/foto-15.jpg": "/thiago-thamires/static/media/foto-15.0cafd646c5f7120bfd80.jpg",
+    "static/media/foto-10.jpg": "/thiago-thamires/static/media/foto-10.f22e8245f49b4ab49895.jpg",
+    "static/media/foto-14.jpg": "/thiago-thamires/static/media/foto-14.52c6d5c59b9cf3cef087.jpg",
+    "static/media/foto-9.jpg": "/thiago-thamires/static/media/foto-9.df6e3778b8ed42e639a0.jpg",
+    "static/media/foto-7.jpg": "/thiago-thamires/static/media/foto-7.d4849c2b48ccc7b06188.jpg",
+    "static/media/foto-12.jpg": "/thiago-thamires/static/media/foto-12.7ad079bc698f022c3bc4.jpg",
+    "static/media/foto-8.jpg": "/thiago-thamires/static/media/foto-8.b151562957d7a9e772e1.jpg",
+    "static/media/foto-13.jpg": "/thiago-thamires/static/media/foto-13.8f243990ba6149b7b8f9.jpg",
     "index.html": "/thiago-thamires/index.html",
-    "main.24f141ac.css.map": "/thiago-thamires/static/css/main.24f141ac.css.map",
-    "main.ff8198c8.js.map": "/thiago-thamires/static/js/main.ff8198c8.js.map"
+    "main.c73ee9f0.css.map": "/thiago-thamires/static/css/main.c73ee9f0.css.map",
+    "main.b6cd8c87.js.map": "/thiago-thamires/static/js/main.b6cd8c87.js.map"
   },
   "entrypoints": [
-    "static/css/main.24f141ac.css",
-    "static/js/main.ff8198c8.js"
+    "static/css/main.c73ee9f0.css",
+    "static/js/main.b6cd8c87.js"
   ]
 }
